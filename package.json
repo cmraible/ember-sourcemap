@@ -66,5 +66,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "sourcemap-validator": "^2.1.0"
   }
 }
